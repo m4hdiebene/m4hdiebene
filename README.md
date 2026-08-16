@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:0f172a,100:0284c7&height=220&section=header&text=Mahdi%20Ebene%20Mahmud&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20%26%20Engineering%20%7C%20Web%20Engineering%20%7C%20Competitive%20Programming&descFontSize=16&descColor=38bdf8&descAlignY=60" width="100%" alt="Mahdi Ebene Mahmud Header" />
+  <img src="./assets/header.svg" width="100%" alt="Mahdi Ebene Mahmud Header" />
+
+  <br/><br/>
 
   <a href="https://m4hdi.codes/">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=CSE+Undergraduate+%40+East+West+University;Crafting+Responsive+%26+Dynamic+Web+Interfaces;Competitive+Programmer+%26+Algorithmic+Problem+Solver;Explore+portfolio+at+m4hdi.codes" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
   <p>
     <a href="https://m4hdi.codes/" target="_blank">
@@ -196,5 +198,5 @@ I am a **Computer Science & Engineering undergraduate** at **East West Universit
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:0f172a,100:0284c7&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer Divider" />
 </div>

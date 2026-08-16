@@ -1,0 +1,18 @@
+<svg width="850" height="70" viewBox="0 0 850 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0" />
+      <stop offset="30%" stop-color="#0284c7" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="1" />
+      <stop offset="70%" stop-color="#6366f1" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <line x1="50" y1="20" x2="800" y2="20" stroke="url(#footerLineGrad)" stroke-width="1.5" />
+  <circle cx="425" cy="20" r="4" fill="#38bdf8" />
+
+  <text x="425" y="48" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'JetBrains Mono', monospace" font-size="12" font-weight="500" fill="#64748b">
+    Designed &amp; Maintained by Mahdi Ebene Mahmud &bull; Dhaka, Bangladesh
+  </text>
+</svg>

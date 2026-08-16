@@ -1,0 +1,68 @@
+<svg width="850" height="180" viewBox="0 0 850 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080d1a" />
+      <stop offset="50%" stop-color="#0b132b" />
+      <stop offset="100%" stop-color="#020d1c" />
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="1" />
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0.9" />
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#1e293b" stop-opacity="0.2" />
+    </linearGradient>
+    <radialGradient id="mesh" cx="90%" cy="10%" r="70%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="mesh2" cx="5%" cy="95%" r="60%">
+      <stop offset="0%" stop-color="#4f46e5" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1e293b" stroke-width="0.75" stroke-opacity="0.45" />
+    </pattern>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="850" height="180" rx="14" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="1.2"/>
+  <rect width="850" height="180" rx="14" fill="url(#grid)" />
+  <rect width="850" height="180" rx="14" fill="url(#mesh)" />
+  <rect width="850" height="180" rx="14" fill="url(#mesh2)" />
+
+  <!-- Glowing Top Accent Line -->
+  <path d="M 14 1 H 836" stroke="url(#glowGrad)" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Status Tag -->
+  <g transform="translate(42, 28)">
+    <rect width="130" height="22" rx="11" fill="#0d1829" stroke="#1e3a5f" stroke-width="1"/>
+    <circle cx="14" cy="11" r="3.5" fill="#22c55e" />
+    <text x="26" y="15" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" fill="#38bdf8" letter-spacing="1.2">PORTFOLIO LIVE</text>
+  </g>
+
+  <!-- Main Name Title -->
+  <text x="42" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif" font-size="34" font-weight="800" fill="#ffffff" letter-spacing="-0.5">
+    Mahdi Ebene Mahmud
+  </text>
+
+  <!-- Subtitle -->
+  <text x="42" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'JetBrains Mono', monospace" font-size="14.5" font-weight="500" fill="#94a3b8">
+    Computer Science &amp; Engineering <tspan fill="#38bdf8">&bull;</tspan> Web Engineering <tspan fill="#38bdf8">&bull;</tspan> Competitive Programming
+  </text>
+
+  <!-- Side Badges -->
+  <g transform="translate(615, 32)">
+    <rect width="195" height="48" rx="10" fill="#091122" stroke="#1e2d4a" stroke-width="1" />
+    <text x="16" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="600" fill="#64748b" letter-spacing="0.8">AFFILIATION</text>
+    <text x="16" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#38bdf8">East West Univ. '26</text>
+  </g>
+  
+  <g transform="translate(615, 96)">
+    <rect width="195" height="48" rx="10" fill="#091122" stroke="#1e2d4a" stroke-width="1" />
+    <text x="16" y="21" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="600" fill="#64748b" letter-spacing="0.8">LOCATION</text>
+    <text x="16" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#10b981">Dhaka, Bangladesh</text>
+  </g>
+</svg>
