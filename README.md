@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/m4hdiebene/m4hdiebene/main/assets/header.svg" width="100%" alt="Mahdi Ebene Mahmud Header" />
 
-  <br/><br/>
+  # Mahdi Ebene Mahmud
+  
+  **Computer Science & Engineering &bull; Web Engineering &bull; Competitive Programming**
+
+  <br/>
 
   <a href="https://m4hdi.codes/">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=CSE+Undergraduate+%40+East+West+University;Crafting+Responsive+%26+Dynamic+Web+Interfaces;Competitive+Programmer+%26+Algorithmic+Problem+Solver;Explore+portfolio+at+m4hdi.codes" alt="Typing SVG" />
@@ -39,7 +42,7 @@ I am a **Computer Science & Engineering undergraduate** at **East West Universit
     <td width="50%" valign="top">
       <h4>Focus Areas</h4>
       <ul>
-        <li><b>Web Engineering:</b> Modern component architectures, responsive layouts, client-side performance, and interactive canvas/web graphics.</li>
+        <li><b>Web Engineering:</b> Modern component architectures, responsive layouts, client-side performance, and interactive web graphics.</li>
         <li><b>Competitive Programming:</b> Algorithmic problem solving, data structures, graph theory, and dynamic programming.</li>
         <li><b>Software Principles:</b> Modular architecture, clean code standards, and seamless developer experiences.</li>
       </ul>
@@ -151,8 +154,6 @@ I am a **Computer Science & Engineering undergraduate** at **East West Universit
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=m4hdiebene&theme=tokyonight&hide_border=true&background=0D1117&stroke=00000000&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak" height="175" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m4hdiebene&theme=tokyonight" alt="GitHub Profile Details" height="175" />
 </div>
 
 <br/>
@@ -197,6 +198,6 @@ I am a **Computer Science & Engineering undergraduate** at **East West Universit
   </a>
 
   <br/><br/>
-
-  <img src="https://raw.githubusercontent.com/m4hdiebene/m4hdiebene/main/assets/footer.svg" width="100%" alt="Footer Divider" />
+  
+  <sub>Designed &amp; Maintained by Mahdi Ebene Mahmud &bull; Dhaka, Bangladesh</sub>
 </div>
