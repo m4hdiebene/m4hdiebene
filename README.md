@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Mahdi Ebene Mahmud Header" />
+  <img src="https://raw.githubusercontent.com/m4hdiebene/m4hdiebene/main/assets/header.svg" width="100%" alt="Mahdi Ebene Mahmud Header" />
 
   <br/><br/>
 
@@ -198,5 +198,5 @@ I am a **Computer Science & Engineering undergraduate** at **East West Universit
 
   <br/><br/>
 
-  <img src="./assets/footer.svg" width="100%" alt="Footer Divider" />
+  <img src="https://raw.githubusercontent.com/m4hdiebene/m4hdiebene/main/assets/footer.svg" width="100%" alt="Footer Divider" />
 </div>
